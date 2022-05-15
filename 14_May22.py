@@ -14,6 +14,9 @@ class human:
 h1=human("Owen",60)
 h2=human("Henry",80)
 h3=human("David",80)
+h4=human("Peter",10)
 
-print(human.nohuman)
+
 h3.description()
+h4.description()
+print(human.nohuman)
